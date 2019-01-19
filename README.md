@@ -7,7 +7,7 @@
 | 345 | HMS2 | Xiaomi Redmi S2 (China) | ysl |
 
 ### XDA Main Thread:
-[Go here](https://forum.xda-developers.com/android/software-hacking/devices-yshalsager-t3741446)
+[Go here](https://forum.xda-developers.com/android/software-hacking/devices-xiaomi-firmware-updater-t3741446)
 
 #### by [Xiaomi Firmware Updater](https://github.com/XiaomiFirmwareUpdater)
 #### Developer: [yshalsager](https://github.com/yshalsager)
